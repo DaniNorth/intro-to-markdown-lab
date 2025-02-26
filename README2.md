@@ -72,4 +72,4 @@ document.addEventListener("DOMContentLoaded", () => {
 
 ## Conclusion
 
-Boilerplate code helps streamline development by providing a structured starting point. Customize these templates to fit your project’s needs! for more boilerplate basics [check out this link.](https://bit.ly/4gTNc8U)
+Boilerplate code helps streamline development by providing a structured starting point. Customize these templates to fit your project’s needs! for more boilerplate basics [check out this link.](https://www.naturl.link/SxdPQl)
